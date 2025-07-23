@@ -1,6 +1,6 @@
 # insurance-analysis
 
-## description
+## Description
 This project is an introduction project into data science fundamentals. It reviews basic python knowledge and analyses a csv dataset containing insurance information.
 
 ## Goals
